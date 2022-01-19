@@ -1,2 +1,9 @@
 
-### 下载代码即可用 node server.js 8888 启动
+### 下载代码
+```
+git clone
+```
+### 启动
+```
+node server.js 8888
+```
